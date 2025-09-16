@@ -1,54 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to My Portfolio
 
-## Project info
+# Personal Portfolio Website
 
-**URL**: https://lovable.dev/projects/ffd58cc9-4e1a-4838-89b9-4e8216d3d97f
+This is my personal portfolio website built using React, Tailwind CSS, and TypeScript. It showcases my projects, skills, and contact information in a clean and responsive layout.
 
-## How can I edit this code?
+# Features
 
-There are several ways of editing your application.
+✨ Fully responsive design
 
-**Use Lovable**
+🧑‍💻 About Me section
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ffd58cc9-4e1a-4838-89b9-4e8216d3d97f) and start prompting.
+🛠️ Projects showcase with links
 
-Changes made via Lovable will be committed automatically to this repo.
+🧰 Skills and technologies
 
-**Use your preferred IDE**
+📞 Contact section with form or details
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🌙 Light/Dark mode (optional)
 
 ## What technologies are used for this project?
 
@@ -60,14 +28,9 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+# About Me
 
-Simply open [Lovable](https://lovable.dev/projects/ffd58cc9-4e1a-4838-89b9-4e8216d3d97f) and click on Share -> Publish.
+I'm a passionate developer focused on creating meaningful digital experiences through clean and efficient code. This portfolio reflects my growth, creativity, and the projects I've worked on.
 
-## Can I connect a custom domain to my Lovable project?
+Feel free to connect with me through the contact section or reach out via social media.
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
